@@ -1,53 +1,51 @@
 # W. NAVIN - Industrial Analytics Portfolio
 
-Translate messy operations into decisions
+Work with incomplete industrial systems and translate uncertainty into decisions.
 
 ---
 
-## Featured Case Studies
+## 1. Featured Real Case Studies
 
-### 🏭 Manufacturing Drying Decision Support
+### 🏭 Manufacturing Drying Process Decision Support
 
-Industrial decision support under incomplete process visibility.
+Conditions that lead to special drying outcome, while maintaining processing capacity and operational stability
 
-→ [Read Project](LINK_REPO_1)
+→ [Read Project](https://github.com/CallmeNavin/Real-Project-1_Manufacturing-Drying-Process-Analysis)
 
 ---
 
 ### 🌾 Premium Product Optimization
 
-Trade-off between quality and operational stability.
+Trade-offs between capacity and quality performance
 
-→ [Read Project](LINK_REPO_2)
+→ [Read Project](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
 
 ---
 
-### 🧪 Ingredient Substitution Analysis
+### 🧪 Ingredient Substitution Performance Trade-off
 
-Lower cost ≠ lower total cost.
+Evaluated whether the substitute ingredient created real value or simply shifted cost into operational instability
 
-→ [Read Project](LINK_REPO_3)
+→ [Read Project](https://github.com/CallmeNavin/Real-Project-3_Manufacturing-Ingredient-Substitution-Performance-Tradeoff)
 
 ---
 
 ### 🌡 Climate Control Performance
 
-Operational stabilization vs measurable value.
+Analyze whether environmental stabilization created measurable production value or simply increased complexity without meaningful downstream improvement
 
-→ [Read Project](LINK_REPO_4)
-
----
-
-## Systems
-
-### ⚙ Daily Standup Dashboard
-
-Data pipeline → Decision dashboard
-
-→ [Read Project](LINK_SYSTEM)
+→ [Read Project](https://github.com/CallmeNavin/Real-Project-4_Climate-Control-Operational-Performance-Analysis)
 
 ---
 
-## Archive
+## 2. Other Featured Case Studies
 
-Selected Kaggle Project
+From Kaggle Data
+
+- Customer Retention Prediction
+
+→ [Read Project](https://github.com/CallmeNavin/P4_Customer-Retention-Prediction)
+
+- Retail Site Selection Analytics
+
+→ [Read Project](https://github.com/CallmeNavin/P6_Retail-Site-Selection-Analytics)
