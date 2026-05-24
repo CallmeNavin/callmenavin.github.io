@@ -1,6 +1,8 @@
 # W. NAVIN - Industrial Analytics Portfolio
 
-Work with incomplete industrial systems and translate uncertainty into decisions.
+Industrial Analytics | Decision Support | Operational Intelligence
+
+Translate messy operations into actionable decisions.
 
 ---
 
@@ -8,7 +10,11 @@ Work with incomplete industrial systems and translate uncertainty into decisions
 
 ### 🏭 Manufacturing Drying Process Decision Support
 
-Conditions that lead to special drying outcome, while maintaining processing capacity and operational stability
+Problem: The process did not have a direct sensor indicating drying outcomes in real time while maintaining processing capacity and operational stability
+
+Tools: SQL · Python · Excel · Powerpoint
+
+Outcome: Operational guidance under imperfect data
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-1_Manufacturing-Drying-Process-Analysis)
 
@@ -16,7 +22,11 @@ Conditions that lead to special drying outcome, while maintaining processing cap
 
 ### 💎 Premium Product Optimization
 
-Trade-offs between capacity and quality performance
+Problem: Improve premium quality under capacity constraints
+
+Tools: SQL · Python · Excel · Powerpoint
+
+Outcome: Quality–stability trade-off framework
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
 
@@ -24,7 +34,11 @@ Trade-offs between capacity and quality performance
 
 ### 🧪 Ingredient Substitution Performance Trade-off
 
-Evaluated whether the substitute ingredient created real value or simply shifted cost into operational instability
+Problem: Evaluate substitute ingredient impact
+
+Tools: SQL · Excel · PowerPoint
+
+Outcome: Cost saving vs operational fragility
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-3_Manufacturing-Ingredient-Substitution-Performance-Tradeoff)
 
@@ -32,20 +46,34 @@ Evaluated whether the substitute ingredient created real value or simply shifted
 
 ### 🌡 Climate Control Performance
 
-Analyze whether environmental stabilization created measurable production value or simply increased complexity without meaningful downstream improvement
+Problem: Whether environmental stabilization created measurable production value or simply increased complexity without meaningful downstream improvement
+
+Tools: SQL · Python · PowerPoint
+
+Outcome: Early-stage gains with limited downstream effect
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-4_Climate-Control-Operational-Performance-Analysis)
 
 ---
 
-## 2. Other Featured Case Studies
+## 2. Featured Learning Case Studies
 
-From Kaggle Data
+### 🔄 Customer Retention Decision Analytics
 
-### 🔄 Customer Retention Prediction
+Problem: Reduce churn while balancing retention cost
 
-→ [Explore](https://github.com/CallmeNavin/P4_Customer-Retention-Prediction)
+Tools: Python · Machine Learning · Power BI
 
-### 📍 Retail Site Selection Analytics
+Outcome: Risk based customer retention strategy
 
-→ [Explore](https://github.com/CallmeNavin/P6_Retail-Site-Selection-Analytics)
+→ [Explore](https://github.com/CallmeNavin/P4_Customer-Retention-Decision-Analysis)
+
+### 📍 Retail Expansion Decision Analytics
+
+Problem: Allocate capital across expansion vs optimization
+
+Tools: Python · Machine Learning · Power BI
+
+Outcome: Site decision framework + ROI prediction
+
+→ [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
