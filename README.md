@@ -1,3 +1,5 @@
+![](https://github.com/CallmeNavin/callmenavin.github.io/blob/main/headers_git_page.png)
+
 # W. NAVIN - Industrial Analytics Portfolio
 
 Industrial Analytics | Decision Support | Operational Intelligence
