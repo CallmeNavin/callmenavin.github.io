@@ -80,5 +80,11 @@ Outcome: Site decision framework + ROI prediction
 
 ## About Me
 
-I work at the intersection of data, manufacturing and decision-making.
-My focus is not building perfect models, but is reducing uncertainty enough for teams to act.
+I work at the intersection of data, manufacturing and decision-making. My focus is not building perfect models, but is reducing uncertainty enough for teams to act.
+
+Contact:
+📄 Resume → [Explore](https://drive.google.com/file/d/19EogyV6f1CVCljTiq7Inbqm1tMvFqas1/view?usp=drivesdk)
+
+💼 LinkedIn → [Explore](https://www.linkedin.com/in/navin826/)
+
+💻 GitHub → [Explore](https://github.com/CallmeNavin)
