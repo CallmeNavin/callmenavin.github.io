@@ -10,7 +10,7 @@ Work with incomplete industrial systems and translate uncertainty into decisions
 
 Conditions that lead to special drying outcome, while maintaining processing capacity and operational stability
 
-→ [Read Project](https://github.com/CallmeNavin/Real-Project-1_Manufacturing-Drying-Process-Analysis)
+→ [Explore](https://github.com/CallmeNavin/Real-Project-1_Manufacturing-Drying-Process-Analysis)
 
 ---
 
@@ -18,7 +18,7 @@ Conditions that lead to special drying outcome, while maintaining processing cap
 
 Trade-offs between capacity and quality performance
 
-→ [Read Project](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
+→ [Explore](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
 
 ---
 
@@ -26,7 +26,7 @@ Trade-offs between capacity and quality performance
 
 Evaluated whether the substitute ingredient created real value or simply shifted cost into operational instability
 
-→ [Read Project](https://github.com/CallmeNavin/Real-Project-3_Manufacturing-Ingredient-Substitution-Performance-Tradeoff)
+→ [Explore](https://github.com/CallmeNavin/Real-Project-3_Manufacturing-Ingredient-Substitution-Performance-Tradeoff)
 
 ---
 
@@ -34,7 +34,7 @@ Evaluated whether the substitute ingredient created real value or simply shifted
 
 Analyze whether environmental stabilization created measurable production value or simply increased complexity without meaningful downstream improvement
 
-→ [Read Project](https://github.com/CallmeNavin/Real-Project-4_Climate-Control-Operational-Performance-Analysis)
+→ [Explore](https://github.com/CallmeNavin/Real-Project-4_Climate-Control-Operational-Performance-Analysis)
 
 ---
 
@@ -42,10 +42,10 @@ Analyze whether environmental stabilization created measurable production value 
 
 From Kaggle Data
 
-- Customer Retention Prediction
+### 🔄 Customer Retention Prediction
 
-→ [Read Project](https://github.com/CallmeNavin/P4_Customer-Retention-Prediction)
+→ [Explore](https://github.com/CallmeNavin/P4_Customer-Retention-Prediction)
 
-- Retail Site Selection Analytics
+### 📍 Retail Site Selection Analytics
 
-→ [Read Project](https://github.com/CallmeNavin/P6_Retail-Site-Selection-Analytics)
+→ [Explore](https://github.com/CallmeNavin/P6_Retail-Site-Selection-Analytics)
