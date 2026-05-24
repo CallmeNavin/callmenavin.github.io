@@ -1,4 +1,4 @@
-![](headers_git_page.png)
+# W. NAVIN
 
 # Industrial Analytics Portfolio
 
