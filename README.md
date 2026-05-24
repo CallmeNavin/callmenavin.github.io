@@ -18,6 +18,8 @@ Tools: SQL · Python · Excel · Powerpoint
 
 Outcome: Operational guidance under imperfect data
 
+Business Learning: How can we identify practical operating guidance for achieving special drying when the output condition is not directly measurable from process sensors?
+
 → [Explore](https://github.com/CallmeNavin/Real-Project-1_Manufacturing-Drying-Process-Analysis)
 
 ---
@@ -29,6 +31,8 @@ Problem: Improve premium quality under capacity constraints
 Tools: SQL · Python · Excel · Powerpoint
 
 Outcome: Quality–stability trade-off framework
+
+Business Learning: Framing trade-off between stability and quality performance
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
 
@@ -42,6 +46,8 @@ Tools: SQL · Excel · PowerPoint
 
 Outcome: Cost saving vs operational constraint
 
+Business Learning: Identify whether savings remain real after the system absorbs the trade-off
+
 → [Explore](https://github.com/CallmeNavin/Real-Project-3_Manufacturing-Ingredient-Substitution-Performance-Tradeoff)
 
 ---
@@ -53,6 +59,8 @@ Problem: Whether environmental stabilization created measurable production value
 Tools: SQL · Python · PowerPoint
 
 Outcome: Early-stage gains with limited downstream effect
+
+Business Learning: In operational systems, environmental stabilization systems does not always automatically create proportional production gain
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-4_Climate-Control-Operational-Performance-Analysis)
 
@@ -68,6 +76,8 @@ Tools: Python · Power BI
 
 Outcome: Risk based customer retention strategy
 
+Business Learning: Capturing more churn cases is valuable only when retention cost remains justified
+
 → [Explore](https://github.com/CallmeNavin/P4_Customer-Retention-Decision-Analysis)
 
 ### 📍 Retail Expansion Decision Analytics
@@ -77,6 +87,8 @@ Problem: Allocate capital across expansion vs optimization
 Tools: Python · Power BI
 
 Outcome: Site decision framework + ROI prediction
+
+Business Learning: Higher profit does not always mean higher capital efficiency
 
 → [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
 
