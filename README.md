@@ -14,7 +14,7 @@ Conditions that lead to special drying outcome, while maintaining processing cap
 
 ---
 
-### 🌾 Premium Product Optimization
+### 💎 Premium Product Optimization
 
 Trade-offs between capacity and quality performance
 
