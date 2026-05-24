@@ -6,7 +6,7 @@ Translate messy operations into actionable decisions.
 
 ---
 
-## 1. Featured Real Case Studies
+## 1. Featured Industrial Case Studies
 
 ### 🏭 Manufacturing Drying Process Decision Support
 
@@ -38,7 +38,7 @@ Problem: Evaluate substitute ingredient impact
 
 Tools: SQL · Excel · PowerPoint
 
-Outcome: Cost saving vs operational fragility
+Outcome: Cost saving vs operational constraint
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-3_Manufacturing-Ingredient-Substitution-Performance-Tradeoff)
 
@@ -56,13 +56,13 @@ Outcome: Early-stage gains with limited downstream effect
 
 ---
 
-## 2. Featured Learning Case Studies
+## 2. Selected Learning Projects
 
 ### 🔄 Customer Retention Decision Analytics
 
 Problem: Reduce churn while balancing retention cost
 
-Tools: Python · Machine Learning · Power BI
+Tools: Python · Power BI
 
 Outcome: Risk based customer retention strategy
 
@@ -72,8 +72,13 @@ Outcome: Risk based customer retention strategy
 
 Problem: Allocate capital across expansion vs optimization
 
-Tools: Python · Machine Learning · Power BI
+Tools: Python · Power BI
 
 Outcome: Site decision framework + ROI prediction
 
 → [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
+
+## About Me
+
+I work at the intersection of data, manufacturing and decision-making.
+My focus is not building perfect models, but is reducing uncertainty enough for teams to act.
