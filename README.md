@@ -10,6 +10,16 @@ Translate messy operations into actionable decisions.
 
 ## 1. Featured Industrial Case Studies
 
+### 🌦 Operational Target Setting Under Uncertainty
+
+Problem: Define and adjust operational targets in a highly variable environment where performance is influenced by external conditions, forecast uncertainty, process/machine constraints, and imperfect measurements, operational data
+
+Tools: SQL · Excel · Power BI
+
+Outcome: Supported ongoing target adjustments by monitoring operational data, historical performance and forecast information. Developed a centralized application to communicate current targets, track actual operating conditions, and improve visibility across factory departments
+
+Business Learning: In complex operating environments, decisions often need to be updated continuously despite incomplete, delayed, and imperfect information.
+
 ### 📊 Daily Factory Reporting & Decision Support System
 
 Problem: Daily operational reviews relied on fragmented Excel files, manual data preparation, and complex workflows that required 30–60 minutes for factory departments of preparation each morning
