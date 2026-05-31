@@ -10,6 +10,16 @@ Translate messy operations into actionable decisions.
 
 ## 1. Featured Industrial Case Studies
 
+### 📊 Daily Factory Reporting & Decision Support System
+
+Problem: Daily operational reviews relied on fragmented Excel files, manual data preparation, and complex workflows that required 30–60 minutes for factory departments of preparation each morning
+
+Tools: Excel · Python · Windows Task Scheduler · Power BI
+
+Outcome: Streamlined daily reporting preparation by combining manual data collection with automated validation and transformation workflows, reducing preparation time from up to an hour to only a few minutes
+
+Business Learning: Operational reporting creates the most value when teams spend less time preparing data and more time discussing decisions.
+
 ### 🏭 Manufacturing Drying Process Decision Support
 
 Problem: The process did not have a direct sensor indicating drying outcomes in real time while maintaining processing capacity and operational stability
